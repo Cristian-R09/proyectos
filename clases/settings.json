@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "vim.cursorStylePerMode.normal": "line-thin",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth"
+}
